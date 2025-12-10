@@ -1,0 +1,5 @@
+{
+  "name": "ScribbleScan",
+  "description": "A cute and powerful handwriting recognition tool powered by Gemini AI that converts images of handwritten notes into digital text.",
+  "requestFramePermissions": []
+}
